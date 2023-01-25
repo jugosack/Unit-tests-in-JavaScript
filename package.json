@@ -1,0 +1,23 @@
+{
+  "name": "unit-tests-in-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugosack/Unit-tests-in-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jugosack/Unit-tests-in-JavaScript/issues"
+  },
+  "homepage": "https://github.com/jugosack/Unit-tests-in-JavaScript#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
